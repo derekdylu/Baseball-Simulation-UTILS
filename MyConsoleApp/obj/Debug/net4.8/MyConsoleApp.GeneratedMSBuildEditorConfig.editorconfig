@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = MyConsoleApp
+build_property.ProjectDir = C:\Users\004\Desktop\MyConsoleApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
