@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Baseball-Simulation-UTILS\\MyConsoleApp\\ArmServer.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Baseball-Simulation-UTILS\\Arm-Server\\ArmServer.csproj",
       "projectName": "ArmServer",
-      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Baseball-Simulation-UTILS\\MyConsoleApp\\ArmServer.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Baseball-Simulation-UTILS\\Arm-Server\\ArmServer.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Baseball-Simulation-UTILS\\MyConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Baseball-Simulation-UTILS\\Arm-Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
