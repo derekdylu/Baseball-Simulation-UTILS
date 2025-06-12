@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\GitHub\\MyConsoleApp\\MyConsoleApp.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\Baseball-Simulation-UTILS\\MyConsoleApp\\MyConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\GitHub\\MyConsoleApp\\MyConsoleApp.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\Baseball-Simulation-UTILS\\MyConsoleApp\\MyConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\MyConsoleApp\\MyConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Baseball-Simulation-UTILS\\MyConsoleApp\\MyConsoleApp.csproj",
         "projectName": "MyConsoleApp",
-        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\MyConsoleApp\\MyConsoleApp.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Baseball-Simulation-UTILS\\MyConsoleApp\\MyConsoleApp.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\MyConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Baseball-Simulation-UTILS\\MyConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

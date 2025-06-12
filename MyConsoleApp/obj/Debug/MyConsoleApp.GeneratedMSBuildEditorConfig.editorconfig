@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = MyConsoleApp
-build_property.ProjectDir = C:\Users\user\Documents\GitHub\MyConsoleApp\
+build_property.ProjectDir = C:\Users\user\Documents\GitHub\Baseball-Simulation-UTILS\MyConsoleApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

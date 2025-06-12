@@ -36,3 +36,17 @@ C:\Users\user\Documents\GitHub\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.CoreCo
 C:\Users\user\Documents\GitHub\MyConsoleApp\obj\Debug\MyConsol.4CA403AE.Up2Date
 C:\Users\user\Documents\GitHub\MyConsoleApp\obj\Debug\MyConsoleApp.exe
 C:\Users\user\Documents\GitHub\MyConsoleApp\obj\Debug\MyConsoleApp.pdb
+C:\Users\user\Documents\GitHub\Baseball-Simulation-UTILS\MyConsoleApp\bin_v4\MyConsoleApp.exe.config
+C:\Users\user\Documents\GitHub\Baseball-Simulation-UTILS\MyConsoleApp\bin_v4\MyConsoleApp.exe
+C:\Users\user\Documents\GitHub\Baseball-Simulation-UTILS\MyConsoleApp\bin_v4\MyConsoleApp.pdb
+C:\Users\user\Documents\GitHub\Baseball-Simulation-UTILS\MyConsoleApp\bin_v4\Syntec.OpenCNC.dll
+C:\Users\user\Documents\GitHub\Baseball-Simulation-UTILS\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Baseball-Simulation-UTILS\MyConsoleApp\obj\Debug\MyConsoleApp.exe.config
+C:\Users\user\Documents\GitHub\Baseball-Simulation-UTILS\MyConsoleApp\obj\Debug\MyConsoleApp.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\Baseball-Simulation-UTILS\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\Baseball-Simulation-UTILS\MyConsoleApp\obj\Debug\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Baseball-Simulation-UTILS\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Baseball-Simulation-UTILS\MyConsoleApp\obj\Debug\MyConsoleApp.sourcelink.json
+C:\Users\user\Documents\GitHub\Baseball-Simulation-UTILS\MyConsoleApp\obj\Debug\MyConsol.4CA403AE.Up2Date
+C:\Users\user\Documents\GitHub\Baseball-Simulation-UTILS\MyConsoleApp\obj\Debug\MyConsoleApp.exe
+C:\Users\user\Documents\GitHub\Baseball-Simulation-UTILS\MyConsoleApp\obj\Debug\MyConsoleApp.pdb
