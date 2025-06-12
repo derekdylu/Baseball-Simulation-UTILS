@@ -1,7 +1,0 @@
-C:\Users\004\Desktop\MyConsoleApp\obj\Debug\net48\MyConsoleApp.csproj.AssemblyReference.cache
-C:\Users\004\Desktop\MyConsoleApp\obj\Debug\net48\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\004\Desktop\MyConsoleApp\obj\Debug\net48\MyConsoleApp.AssemblyInfoInputs.cache
-C:\Users\004\Desktop\MyConsoleApp\obj\Debug\net48\MyConsoleApp.AssemblyInfo.cs
-C:\Users\004\Desktop\MyConsoleApp\obj\Debug\net48\MyConsoleApp.csproj.CoreCompileInputs.cache
-C:\Users\004\Desktop\MyConsoleApp\obj\Debug\net48\MyConsoleApp.Properties.Resources.resources
-C:\Users\004\Desktop\MyConsoleApp\obj\Debug\net48\MyConsoleApp.csproj.GenerateResource.cache
