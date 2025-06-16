@@ -1,0 +1,7 @@
+C:\Users\004\Desktop\MyConsoleApp\obj\Debug\net5.0\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\004\Desktop\MyConsoleApp\obj\Debug\net5.0\MyConsoleApp.Properties.Resources.resources
+C:\Users\004\Desktop\MyConsoleApp\obj\Debug\net5.0\MyConsoleApp.csproj.GenerateResource.cache
+C:\Users\004\Desktop\MyConsoleApp\obj\Debug\net5.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\004\Desktop\MyConsoleApp\obj\Debug\net5.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\004\Desktop\MyConsoleApp\obj\Debug\net5.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\004\Desktop\MyConsoleApp\obj\Debug\net5.0\MyConsoleApp.csproj.CoreCompileInputs.cache

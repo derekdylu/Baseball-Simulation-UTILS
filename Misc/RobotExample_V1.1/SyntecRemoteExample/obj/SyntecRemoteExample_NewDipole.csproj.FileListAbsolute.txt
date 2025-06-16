@@ -1,0 +1,76 @@
+D:\高速高精\ROBOT-242 機器人使用RemoteAPI操作說明文件\SyntecRemoteAPI_v4_1.0.12\Example\bin_v4\SyntecRemoteAPIExample.exe
+D:\高速高精\ROBOT-242 機器人使用RemoteAPI操作說明文件\SyntecRemoteAPI_v4_1.0.12\Example\bin_v4\SyntecRemoteAPIExample.pdb
+D:\高速高精\ROBOT-242 機器人使用RemoteAPI操作說明文件\SyntecRemoteAPI_v4_1.0.12\Example\SyntecRemoteExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\高速高精\ROBOT-242 機器人使用RemoteAPI操作說明文件\SyntecRemoteAPI_v4_1.0.12\Example\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteClient.ExampleForm.resources
+D:\高速高精\ROBOT-242 機器人使用RemoteAPI操作說明文件\SyntecRemoteAPI_v4_1.0.12\Example\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.Properties.Resources.resources
+D:\高速高精\ROBOT-242 機器人使用RemoteAPI操作說明文件\SyntecRemoteAPI_v4_1.0.12\Example\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteExample_NewDipole.csproj.GenerateResource.Cache
+D:\高速高精\ROBOT-242 機器人使用RemoteAPI操作說明文件\SyntecRemoteAPI_v4_1.0.12\Example\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.exe
+D:\高速高精\ROBOT-242 機器人使用RemoteAPI操作說明文件\SyntecRemoteAPI_v4_1.0.12\Example\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.pdb
+D:\HSHP\ROBOT-242 機器人使用RemoteAPI操作說明文件\SyntecRemoteAPI_v4_1.0.12\Example\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.exe
+D:\HSHP\ROBOT-242 機器人使用RemoteAPI操作說明文件\SyntecRemoteAPI_v4_1.0.12\Example\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.pdb
+D:\HSHP\ROBOT-242 機器人使用RemoteAPI操作說明文件\SyntecRemoteAPI_v4_1.0.12\Example\bin_v4\SyntecRemoteAPIExample.exe
+D:\HSHP\ROBOT-242 機器人使用RemoteAPI操作說明文件\SyntecRemoteAPI_v4_1.0.12\Example\bin_v4\SyntecRemoteAPIExample.pdb
+D:\HSHP\ROBOT-242 機器人使用RemoteAPI操作說明文件\SyntecRemoteAPI_v4_1.0.12\Example\SyntecRemoteExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\HSHP\ROBOT-242 機器人使用RemoteAPI操作說明文件\SyntecRemoteAPI_v4_1.0.12\Example\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteClient.ExampleForm.resources
+D:\HSHP\ROBOT-242 機器人使用RemoteAPI操作說明文件\SyntecRemoteAPI_v4_1.0.12\Example\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.Properties.Resources.resources
+D:\HSHP\ROBOT-242 機器人使用RemoteAPI操作說明文件\SyntecRemoteAPI_v4_1.0.12\Example\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteExample_NewDipole.csproj.GenerateResource.Cache
+c:\users\1455\Desktop\Example\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.exe
+c:\users\1455\Desktop\Example\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.pdb
+c:\users\1455\Desktop\Example\bin_v4\SyntecRemoteAPIExample.exe
+c:\users\1455\Desktop\Example\bin_v4\SyntecRemoteAPIExample.pdb
+c:\users\1455\Desktop\Example\SyntecRemoteExample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\1455\Desktop\Example\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteClient.ExampleForm.resources
+c:\users\1455\Desktop\Example\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.Properties.Resources.resources
+c:\users\1455\Desktop\Example\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteExample_NewDipole.csproj.GenerateResource.Cache
+D:\HSHP\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.exe
+D:\HSHP\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.pdb
+D:\HSHP\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample\bin_v4\SyntecRemoteAPIExample.exe
+D:\HSHP\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample\bin_v4\SyntecRemoteAPIExample.pdb
+D:\HSHP\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample\SyntecRemoteExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\HSHP\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteClient.ExampleForm.resources
+D:\HSHP\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.Properties.Resources.resources
+D:\HSHP\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteExample_NewDipole.csproj.GenerateResource.Cache
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.exe
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.pdb
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample\bin_v4\SyntecRemoteAPIExample.exe
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample\bin_v4\SyntecRemoteAPIExample.pdb
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample\SyntecRemoteExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteClient.ExampleForm.resources
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.Properties.Resources.resources
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteExample_NewDipole.csproj.GenerateResource.Cache
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.exe
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.pdb
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\bin_v4\SyntecRemoteAPIExample.exe
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\bin_v4\SyntecRemoteAPIExample.pdb
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\SyntecRemoteExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteClient.ExampleForm.resources
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.Properties.Resources.resources
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteExample_NewDipole.csproj.GenerateResource.Cache
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\SyntecRemoteExample\bin\x64\Debug\SyntecRemoteAPIExample.exe
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\SyntecRemoteExample\bin\x64\Debug\SyntecRemoteAPIExample.pdb
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\SyntecRemoteExample\bin\x64\Debug\Syntec.RemoteCNC.dll
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\SyntecRemoteExample\bin\x64\Debug\nunit.framework.dll
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\SyntecRemoteExample\bin\x64\Debug\Syntec.OpenCNC.dll
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\SyntecRemoteExample\bin\x64\Debug\MMICommon32.dll
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\SyntecRemoteExample\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\SyntecRemoteExample\obj\x64\Debug\SyntecRemoteClient.ExampleForm.resources
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\SyntecRemoteExample\obj\x64\Debug\SyntecRemoteAPIExample.Properties.Resources.resources
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\SyntecRemoteExample\obj\x64\Debug\SyntecRemoteExample_NewDipole.csproj.GenerateResource.Cache
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\SyntecRemoteExample\obj\x64\Debug\SyntecRemoteAPIExample.exe
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0\SyntecRemoteExample\obj\x64\Debug\SyntecRemoteAPIExample.pdb
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0 - 複製\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.exe
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0 - 複製\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.pdb
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0 - 複製\SyntecRemoteExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0 - 複製\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteClient.ExampleForm.resources
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0 - 複製\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.Properties.Resources.resources
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0 - 複製\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteExample_NewDipole.csproj.GenerateResource.Cache
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0 - 複製\bin_v4\SyntecRemoteAPIExample.exe
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.0 - 複製\bin_v4\SyntecRemoteAPIExample.pdb
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.1\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.exe
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.1\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.pdb
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.1\bin_v4\SyntecRemoteAPIExample.exe
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.1\bin_v4\SyntecRemoteAPIExample.pdb
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.1\SyntecRemoteExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.1\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteClient.ExampleForm.resources
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.1\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteAPIExample.Properties.Resources.resources
+D:\Robot\ROBOT-242 機器人使用RemoteAPI操作說明文件\RobotExample_V1.1\SyntecRemoteExample\obj\x86\Debug\SyntecRemoteExample_NewDipole.csproj.GenerateResource.Cache

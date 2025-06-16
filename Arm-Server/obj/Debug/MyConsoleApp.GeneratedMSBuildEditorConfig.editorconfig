@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = MyConsoleApp
+build_property.ProjectDir = C:\Users\user\Documents\GitHub\Baseball-Simulation-UTILS\Arm-Server\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

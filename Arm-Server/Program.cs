@@ -12,29 +12,29 @@ class Program
 
     static void Main()
     {
-        Console.WriteLine("CNC waiting...");
+        Console.WriteLine("CNC 控制伺服器啟動中...");
 
         // 嘗試與 CNC 建立連線
-        //try
-        //{
-        //    Read(); // 啟動時讀取狀態
-        //}
-        //catch (Exception ex)
-        //{
-        //    Console.WriteLine("⚠ 與 CNC 建立連線時發生錯誤：" + ex.Message);
-        //}
+        try
+        {
+            Read(); // 啟動時讀取狀態
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("⚠ 與 CNC 建立連線時發生錯誤：" + ex.Message);
+        }
 
         // 啟動 TCP 伺服器
         const int port = 12345;
         var listener = new TcpListener(IPAddress.Loopback, port);
         listener.Start();
-        Console.WriteLine($"TCP start，port {port}...");
+        Console.WriteLine($"TCP 伺服器已啟動，監聽埠號 {port}...");
         while (true)
         {
-            Console.WriteLine("wait TCP connceting...");
+            Console.WriteLine("等待 TCP 連線...");
             using (var client = listener.AcceptTcpClient())
             {
-                Console.WriteLine("TCP connect！");
+                Console.WriteLine("TCP 已連線！");
                 using (var stream = client.GetStream())
                 using (var reader = new StreamReader(stream))
                 using (var writer = new StreamWriter(stream) { AutoFlush = true })
@@ -42,17 +42,22 @@ class Program
                     string input;
                     while ((input = reader.ReadLine()) != null) // 連線持續中
                     {
-                        Console.WriteLine("receive：" + input);
+                        Console.WriteLine("收到訊息：" + input);
 
                         if (input.ToLower() == "exit")
                         {
-                            writer.WriteLine("End...");
+                            writer.WriteLine("伺服器結束連線...");
                             break; // 中止與 client 的這次連線
+                        }
+                        else if (input.ToLower() == "ping")
+                        {
+                            writer.WriteLine("ping");
+                            writer.WriteLine("<END>");
                         }
                         else if (input.ToLower() == "read")
                         {
                             Read();
-                            writer.WriteLine("read end");
+                            writer.WriteLine("讀取 CNC 狀態完成");
                             writer.WriteLine("<END>");
                         }
                         else if (input.ToLower() == "rateup")
@@ -79,25 +84,20 @@ class Program
                             writer.WriteLine("set to JOG mode");
                             writer.WriteLine("<END>");
                         }
-                        else if (input.ToLower() == "ping")
-                        {
-                            writer.WriteLine("ping");
-                            writer.WriteLine("<END>");
-                        }
                         else
                         {
-                            //Exe(input);
-                            writer.WriteLine("run command: " + input);
+                            Exe(input);
+                            writer.WriteLine("已執行 CNC 指令: " + input);
                             writer.WriteLine("<END>");
                         }
                     }
 
-                    Console.WriteLine("Client disconnect。");
+                    Console.WriteLine("Client 斷線。");
                 }
             }
         }
         cnc.Close(); // 關閉 CNC 連線
-        Console.WriteLine("CNC program end.");
+        Console.WriteLine("CNC 連線關閉，程式結束。");
     }
 
     static void Read()
@@ -116,7 +116,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("Sometihing wrong：" + result);
+            Console.WriteLine("❌ 錯誤讀取 CNC 狀態：" + result);
         }
     }
 
@@ -126,8 +126,8 @@ class Program
         short result1 = cnc.WRITE_nc_main(text);
         if (result1 != (short)SyntecRemoteCNC.ErrorCode.NormalTermination)
         {
-            Console.WriteLine($"NC main fail ({result1})");
-            //return;
+            Console.WriteLine($"❌ 設定主 NC 程式失敗 ({result1})");
+            return;
         }
 
         short result2 = cnc.WRITE_plc_register(15205, 15205, Mode1);
@@ -135,11 +135,11 @@ class Program
         {
             Mode1[0] = 0;
             cnc.WRITE_plc_register(15205, 15205, Mode1);
-            Console.WriteLine("success execute " + text);
+            Console.WriteLine("✅ 成功啟動 CNC 程式: " + text);
         }
         else
         {
-            Console.WriteLine("fail execute" + result2);
+            Console.WriteLine("❌ 無法啟動 CNC 程式：" + result2);
         }
     }
 
